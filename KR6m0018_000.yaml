@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0018/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 壹輸盧迦論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T30/T30n1573.xml
+    old_id: T30n1573
+hash: sha256:5a25fce5c3eadfc18ae2f2378b197218d6161487c75c3a646bd015f3c19989ae
