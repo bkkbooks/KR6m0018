@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0018_000.yaml, hash: 'sha256:5a25fce5c3eadfc18ae2f2378b197218d6161487c75c3a646bd015f3c19989ae'}
-  - {seq: 1, filename: KR6m0018_001.yaml, hash: 'sha256:1e8d40e4c73c3b31776533f1a60cddb51f7e80e9e93c9cae8f1981407e0e9a87'}
+  - {seq: 1, filename: KR6m0018_001.yaml, hash: 'sha256:224f579cc748f14e1ca1d9ffb969e9e96f4a1b6245ba1796dfc329a09379991b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6m0018_001.markers.yaml, hash: 'sha256:453b193940750f9c2cf34801ce7577b498906e906400fad08acb262585afe4c5'}
+  - {seq: 0, role: markers, filename: assets/KR6m0018_000.markers.yaml, hash: 'sha256:5e6cb0b030344a97cbd1bc84d8bedc8c6a43dde83869643bc711d3346d3449fb'}
+  - {seq: 1, role: markers, filename: assets/KR6m0018_001.markers.yaml, hash: 'sha256:dca44f449eb9d5fba87aed0c053676389cd6df43b0f1cba55db91ba4028f4609'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 壹輸盧迦論一卷
   type: juan
   level: 1
-hash: sha256:fb7a129056b39dae8241fbd909b13a0dc4dd2013dd4bfb520fedc21a236a21e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1b5dee1c61a6b70bd282e992b9c2c02d8c42f09388b2c05ddbbc5b164a2274dc
